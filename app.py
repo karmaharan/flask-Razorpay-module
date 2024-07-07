@@ -5,7 +5,6 @@ from flask import current_app
 def verify_razorpay_payment(payment_id):
     try:
         # GET KEYS FROMhttps://dashboard.razorpay.com/app/website-app-settings/api-keys
-        # Initialize the Razorpay client with credentials from environment variables
         client = razorpay.Client(auth=("KEY_ID", "LIVE_KEY"))
 
         # Fetch the payment details
