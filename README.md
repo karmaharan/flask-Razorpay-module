@@ -16,8 +16,8 @@ This repository provides a simple Python function to verify payments using the R
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/razorpay-payment-verification.git
-   cd razorpay-payment-verification
+   git clone https://github.com/karmaharan/flask-Razorpay-module
+   cd flask-Razorpay-module
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
