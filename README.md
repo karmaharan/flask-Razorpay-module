@@ -1,8 +1,6 @@
-Here's a README file for your GitHub repository, explaining how to set up and use the `verify_razorpay_payment` function:
 
----
 
-# Razorpay Payment Verification
+# Flask Razorpay Module
 
 This repository provides a simple Python function to verify payments using the Razorpay API. The function fetches payment details and checks if the payment has been successfully captured.
 
